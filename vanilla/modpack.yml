@@ -6,5 +6,3 @@ builds:
     '1.4.5':
         libraries:
         minecraft: 1.4.5
-        mods:
-            basemods: vanilla-v1.4.5
